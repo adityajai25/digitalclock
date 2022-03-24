@@ -29,7 +29,7 @@ system("color 3f");
         {
            h=1;
         }
-        printf("\n CLOCK:");
+        printf("\n DIGITAL CLOCK:");
         printf("\n %02d:%02d:%02d",h,m,s);
         Sleep(d);
         system("cls");
